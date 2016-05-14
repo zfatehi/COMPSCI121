@@ -22,8 +22,8 @@ public class Primitives
     // written so that you get a shortcut way of creating an object of
     // that class (lines 10 and 14)
 
-    Person zahra = new Person("Zahra", 13);
-    Person rahat = new Person("Rahat", 29);
+    Infant zahra = new Infant("Zahra", 13);
+    Infant rahat = new Infant("Rahat", 29);
     
   }
 
