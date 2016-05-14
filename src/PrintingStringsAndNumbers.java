@@ -34,6 +34,10 @@ public class PrintingStringsAndNumbers
     // • string + string --> string
     // • number + string --> string
     // • string + number --> string
+
+    // Strings and numbers
+
+    System.out.println(3 + 5 + "a" + 3 + 5);
   }
 
 }
