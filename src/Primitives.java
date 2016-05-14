@@ -13,6 +13,18 @@ public class Primitives
     String name;
     name = "Erik";
     name = new String("Erik");
+
+    // Character --> char
+    // Integer --> int
+    // Double --> double
+
+    // There are pre-made classes for strings and number types - they are
+    // written so that you get a shortcut way of creating an object of
+    // that class (lines 10 and 14)
+
+    Person zahra = new Person("Zahra", 13);
+    Person rahat = new Person("Rahat", 29);
+    
   }
 
 }
