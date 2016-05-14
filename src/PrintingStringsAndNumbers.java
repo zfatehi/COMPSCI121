@@ -37,7 +37,11 @@ public class PrintingStringsAndNumbers
 
     // Strings and numbers
 
+    // Like order of operations, the moment a string is introduced,
+    // everything including numbers are converted to a string
     System.out.println(3 + 5 + "a" + 3 + 5);
+    // So you get "8a35"
+    
   }
 
 }
