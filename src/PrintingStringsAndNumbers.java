@@ -30,10 +30,10 @@ public class PrintingStringsAndNumbers
     System.out.println("a" + 5);
 
     // Mixtures of strings and numbers
-    // • number + number --> number
-    // • string + string --> string
-    // • number + string --> string
-    // • string + number --> string
+    // ï¿½ number + number --> number
+    // ï¿½ string + string --> string
+    // ï¿½ number + string --> string
+    // ï¿½ string + number --> string
 
     // Strings and numbers
 
@@ -41,6 +41,7 @@ public class PrintingStringsAndNumbers
     // everything including numbers are converted to a string
     System.out.println(3 + 5 + "a" + 3 + 5);
     // So you get "8a35"
+  
     
   }
 
